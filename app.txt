@@ -1,2 +1,2 @@
-student portal is ready
+student portal version 2 is ready
 login feature is added
